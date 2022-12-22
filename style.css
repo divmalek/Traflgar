@@ -421,3 +421,8 @@ body{
 .arti{
     margin-top: 45px;
 }
+@media (max-width:787px){
+    .navbar img{
+        width:150px !important;
+    }
+        
